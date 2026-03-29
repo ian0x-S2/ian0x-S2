@@ -2,8 +2,7 @@
 
 # ian0x-S2
 
-Building things that work — from system architecture to the browser.
-Based in São Paulo, Brazil. Available for new projects.
+Building end-to-end systems — from architecture to production.
 
 ---
 
