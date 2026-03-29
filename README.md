@@ -4,8 +4,7 @@
 
 Building end-to-end systems — from architecture to production.
 
-- [![Portfolio](https://ian0x-s2.vercel.app/)
-
+[ian0x-s2.vercel.app](https://ian0x-s2.vercel.app/)
 ---
 
 ## Stack
