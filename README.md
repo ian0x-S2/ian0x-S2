@@ -1,4 +1,5 @@
 
+
 # ian0x-S2
 
 Building things that work — from system architecture to the browser.
@@ -22,8 +23,14 @@ Based in São Paulo, Brazil. Available for new projects.
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ian0x-S2&show_icons=true&hide_border=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ian0x-S2&layout=compact&hide_border=true&theme=default)
+
+
+
+  
+  
+
+
+
 
 ---
 
