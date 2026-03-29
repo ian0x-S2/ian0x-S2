@@ -3,8 +3,7 @@
 # ian0x-S2
 
 Building end-to-end systems — from architecture to production.
-
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-ian0x--s2.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://ian0x-s2.vercel.app/)---
 
 ## Stack
 
