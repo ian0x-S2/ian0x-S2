@@ -4,7 +4,8 @@
 
 Building end-to-end systems — from architecture to production.
 
-[ian0x-s2.vercel.app](https://ian0x-s2.vercel.app/)
+[MyCorner](https://ian0x-s2.vercel.app/)
+
 ---
 
 ## Stack
